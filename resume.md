@@ -1,5 +1,7 @@
-# Harshavardhan Kalagarla
 ![WhatsApp Image 2023-09-02 at 21 49 34 (1)](https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/assets/143569259/9c712e15-785f-48fb-a646-cc6e6f8a129e)
+# Harshavardhan Kalagarla
+
+**217 Garden Ridge Road , Catonsville , 21228 | +1-(443)-813-6004 | EmailID: harshakalagarla4049@gmail.com**
 
 ## Objective:
 ---
