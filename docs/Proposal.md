@@ -1,4 +1,4 @@
-<center><H1>Pre-Owned Car Prediction Analysis</H1></center>
+<center><H1>Auto ValuForecast</H1></center>
 
 
 <H2>1. Title and Author</H2><br>
@@ -44,3 +44,17 @@ Column description:<br>
 •	Seller_Type: The type of seller (e.g., Dealer, Individual).<br>
 •	Transmission: The type of transmission (e.g., Manual, Automatic).<br>
 •	Owner: The number of previous owners of the car.
+
+<H2>3. EDA(Exploratory Data Analysis)</H2><br>
+<H3>Data Cleaning:</H3><br>
+•	I have downloaded the data from kaggle from the above link provided.<br>
+•	Check the first few rows of the dataset using df.head() to get a glimpse of the data, Use df.info() to check data types and missing values.<br>
+•	Calculate summary statistics like mean, median, standard deviation, etc., using df.describe()<br>
+•	Identify and handle missing values using methods like imputation or deletion<br>
+<H3>Data Vizualization:</H3><br>
+Each visualization provides valuable insights into different aspects of the car dataset, such as the distribution of selling prices, fuel types, seller types, mileage, and the relationship between kilometers driven and selling price.<br>
+•	created a histogram chart showing the distribution of selling prices. The x-axis represents the selling prices, and the color is set to purple.<br>
+•	Creates a bar chart displaying the distribution of different fuel types<br>
+•	Creates a bar chart showing the counts of different seller types.<br>
+• Generates a histogram displaying the distribution of mileage values.<br>
+•	Creates a scatter plot with the x-axis representing kilometers driven, y-axis representing selling price, and color-coded by selling price.<br>
