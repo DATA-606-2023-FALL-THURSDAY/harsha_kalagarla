@@ -6,8 +6,8 @@
 - GitHub: (https://github.com/Harsha4049)
 - LinkedIn: (https://www.linkedin.com/in/harsha-kalagarla-8b118421b/)
 - Code:https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/blob/main/Src/606_Capstoneproject.ipynb
-- Link to your PowerPoint presentation file
-- Link to your  YouTube video 
+- Link to your PowerPoint presentation file - https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/blob/main/docs/Harshavardhan%20Project%20ppt.pptx
+- Link to your  YouTube video - https://youtu.be/AWZq4lXdof4
     
 ## 2. Background
 What is it about?<br>
