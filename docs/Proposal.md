@@ -148,5 +148,26 @@ Evaluate the performance of the deep neural network model.
 Visualize and interpret the data distribution to identify potential patterns.
 Explore ensemble methods to combine model predictions for better results.
 
+### 7.1 Future Predictions
+
+1. **Technological Transformation:** Emerging technologies such as AI, robotics, virtual reality, gene editing, quantum computing, and the Internet of Things will drive significant economic and societal changes. Self-driving cars, renewable energies, precision agriculture, and advancements in medical treatments promise to revolutionize industries and improve efficiency.
+
+2. **Space Exploration:** SpaceX's Starlink satellite network and potential future colonies on Mars could reshape global communication and serve as a backup for human civilization. Collaborations between companies like Blue Origin, SpaceX, Virgin Galactic, and NASA will push the boundaries of space exploration, potentially leading to permanent lunar bases and asteroid mining ventures.
+
+3. **Environmental Sustainability:** Widespread adoption of electric vehicles, renewable electricity, nuclear fusion, reduced food waste, and lab-grown meat substitutes may help mitigate global warming. The success of these efforts, however, depends on the implementation of aggressive climate policies and industry-wide commitments.
+
+4. **Challenges and Concerns:** Despite the positive advancements, concerns persist regarding job loss due to automation, algorithmic biases in AI, genetic enhancements leading to increased inequality, internet privacy erosion, and space militarization. Addressing these challenges requires ethical policies that balance innovation with social welfare.
+
+5. **Countermeasures for Information Era Issues:** The rise of misinformation and digital surveillance necessitates new countermeasures to enhance trust and transparency while upholding civil liberties. It underscores the importance of ethical considerations in the development and deployment of technologies.
+
+6. **Geopolitical Shifts:** Power is likely to concentrate in the technology and renewable energy sectors, leading to geopolitical realignments. Deepening integrations between AI, digital payments, cryptocurrencies, and the blockchain indicate their growing role in economics and governance.
+
+7. **Optimism Amid Challenges:** Despite grappling with threats such as climate change, pandemics, cyberterrorism, automation, wealth gaps, and nuclear proliferation, optimism persists around breakthroughs that elevate global prosperity, equity, and quality of life. Prioritizing ethics and democratization in technological development is crucial to guide progress toward sustainable and just ends benefiting all of civilization.
 
 
+### 8.References
+- Sharma et al. (2020). Car Price Prediction using Machine Learning Techniques. International Journal of Engineering and Advanced Technology.
+- Yeniay & Goktas (2002). A comparison of partial least squares regression with other prediction methods. Hacettepe Journal of Mathematics and Statistics.
+- Liu, Y., Chen, Z., Tang, X., Zheng, Y. (2021). Automobile Price Prediction Based on Convolutional and Recurrent Neural Network. IEEE Access.
+- Tan, H., Mu, Y., Chang, X. (2018). Using Extreme Gradient Boosting for Car Price Prediction. IEEE Congress on Evolutionary Computation.
+- https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
