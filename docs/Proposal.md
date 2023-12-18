@@ -133,4 +133,20 @@ In car price prediction, model training is crucial to enable the algorithm to le
 <img width="830" alt="image" src="https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/assets/143569259/3f68b782-3aba-4ae9-87d7-2e98c9c3c806">
 
 
+## 6. Application of Trained Model
+Once the model is trained, it can be applied to various tasks, such as:
+1. Predicting the price of a car: Given the details of a car, the trained model can predict its current ex-room price in lakhs.
+2. Evaluating the price of a car: The model can evaluate the price of a car based on its details, such as transmission type, number of owners, purchase year, and current ex-room price.
+3. Identifying the seller type of a car: The model can identify whether the car is a pre-owned or new car based on its details.
+4. Predicting the fuel type of a car: Given the details of a car, the trained model can predict its fuel type, such as diesel or petrol. 5. Predicting the distance completed by a car: The model can predict the distance traveled by a car based on its details, such as the number of seats and the distance completed. These tasks can be useful in various industries, such as automotive, real estate, and finance, where accurate predictions of car prices, seller types, fuel types, and distance traveled can be valuable in decision-making processes.
+
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/assets/143569259/2aa21d16-ed46-4571-99d3-2f4572cdfe74)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/kalagarla_harsha/assets/143569259/c47e3a25-c04a-4209-b436-298ab256c2fa)
+
+## 7. Conclusion
+Evaluate the performance of the deep neural network model.
+Visualize and interpret the data distribution to identify potential patterns.
+Explore ensemble methods to combine model predictions for better results.
+
+
 
